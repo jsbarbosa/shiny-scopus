@@ -1,4 +1,5 @@
 # Current issues:
+- [Example](http://kitchingroup.cheme.cmu.edu/blog/2015/04/03/Getting-data-from-the-Scopus-API/)
 - [A stack question](http://stackoverflow.com/questions/31967010/getting-authors-articles-from-scopus-using-scopus-api-authentication-error)
 - *scopus_exercise.py* Traceback:
 

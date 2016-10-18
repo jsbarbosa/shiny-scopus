@@ -11,7 +11,6 @@ import json
 
 from scopus.scopus_api import ScopusAbstract
 
-
 ab = ScopusAbstract("2-s2.0-84930616647")
 print(ab.bibtex)
 print(ab.ris)
